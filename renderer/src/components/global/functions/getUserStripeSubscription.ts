@@ -12,7 +12,7 @@ const token = process?.env?.NEXT_PUBLIC_STRIPE_KEY
   : "";
 
 const stripe = new Stripe(token, {
-  apiVersion: "2022-11-15",
+  apiVersion: "2023-08-16",
 });
 
 const getUserStripeSubscription = async (

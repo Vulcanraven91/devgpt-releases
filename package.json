@@ -105,7 +105,7 @@
     "@fontsource/open-sans": "^5.0.5",
     "@fontsource/raleway": "^5.0.5",
     "@octokit/rest": "^19.0.13",
-    "@rpldy/upload-drop-zone": "^1.4.1",
+    "@rpldy/upload-drop-zone": "^1.9.1",
     "@stripe/stripe-js": "^1.54.0",
     "@supabase/auth-helpers-nextjs": "^0.7.3",
     "@supabase/supabase-js": "^2.24.0",

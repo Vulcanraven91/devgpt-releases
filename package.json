@@ -169,7 +169,7 @@
     "@types/node": "^18.11.18",
     "@types/react": "^18.0.26",
     "electron": "^21.4.4",
-    "electron-builder": "^24.6.3",
+    "electron-builder": "^26.0.0",
     "next": "13.4.4",
     "nextron": "^8.5.0",
     "react": "^18.2.0",

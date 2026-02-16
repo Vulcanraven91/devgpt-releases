@@ -140,7 +140,7 @@
     "next-transpile-modules": "^10.0.1",
     "nextron": "^8.5.0",
     "openai-edge": "^1.2.2",
-    "react": "^18.2.0",
+    "react": "^19.2.4",
     "react-codemirror-merge": "^4.21.9",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
@@ -172,7 +172,7 @@
     "electron-builder": "^24.6.3",
     "next": "13.4.4",
     "nextron": "^8.5.0",
-    "react": "^18.2.0",
+    "react": "^19.2.4",
     "react-dom": "^18.2.0",
     "typescript": "^4.9.4"
   }
